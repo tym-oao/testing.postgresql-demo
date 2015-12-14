@@ -17,6 +17,3 @@
 10. pip install git+https://github.com/tk0miya/testing.postgresql.git
 10.1 show test_demo1 code and run
 
-TODO:
-- Make sample Dockerfile w/ minimal install (Debian)
-- Get code on GitHub (or Gist) (Send link to Slack before the preso)
