@@ -16,7 +16,7 @@ git
 
 RUN pip3 install \
 psycopg2 \
-git+https://github.com/tk0miya/testing.postgresql.git
+testing.postgresql
 
 RUN rm -rf /var/cache/apk/* && rm -rf /tmp/*
 

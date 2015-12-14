@@ -13,7 +13,9 @@
 7. run test_demo with -v
 
 8. point out that test_select has insert_fixture in test_select
-9. explain and demo the factory [TK]
+9. explain and demo the factory class
+10. pip install git+https://github.com/tk0miya/testing.postgresql.git
+10.1 show test_demo1 code and run
 
 TODO:
 - Make sample Dockerfile w/ minimal install (Debian)
