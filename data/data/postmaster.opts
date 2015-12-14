@@ -1,0 +1,1 @@
+/usr/local/Cellar/postgresql/9.4.5/bin/postgres "-p" "63370" "-D" "/Users/thomas/Dropbox/projects/junk_drawer/test-demo/data/data" "-k" "/Users/thomas/Dropbox/projects/junk_drawer/test-demo/data/tmp" "-h" "127.0.0.1" "-F" "-c" "logging_collector=off"
