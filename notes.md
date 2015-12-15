@@ -17,3 +17,5 @@
 10. pip install git+https://github.com/tk0miya/testing.postgresql.git
 10.1 show test_demo1 code and run
 
+pip3 install --upgrade git+https://github.com/tk0miya/testing.postgresql.git
+
