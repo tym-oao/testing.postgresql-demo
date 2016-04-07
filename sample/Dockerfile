@@ -6,7 +6,7 @@ python3 \
 postgresql-9.4
 
 RUN su - postgres -c "pg_dropcluster --stop 9.4 main"
-RUN pip install testing.postgresql
+RUN pip3 install testing.postgresql
 
 ADD myapp /app
 
